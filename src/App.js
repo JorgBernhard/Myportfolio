@@ -90,14 +90,14 @@ function App() {
     <div className="projects">
       <br></br>
       <h3>Projects</h3>
-      <p>Acera: Company Logo creation, Styled documents, home-page and Flyers.
+      <p>Acera: Company Logo creation, styled documents, home-page and Flyers.
       <br></br><br></br>
       Management, Coordination of teams inside the company and also tired party
       teams.<br></br><br></br>
       Development of wind parks all over Brazil, structuring and linking internet
       connections as connecting energy sub-stations to the net.
       <br></br><br></br>
-      TKS: Management, IT departament coordinaton, organizing instalations all over Brazil and other
+      TKS: Management, IT departament coordination, organizing instalations all over Brazil and other
       countries. (Argentina, Chile, USA, Australia e Germany.
       <br></br><br></br>
       Logistic consulting for Garoto, Fate, TTI and the Camber of Comerce Brazil-
