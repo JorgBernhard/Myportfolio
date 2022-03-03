@@ -9,7 +9,7 @@
 .left {
     width: 700px;
     height: 300px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     margin-top: 30px;
     margin-left: 30px;
@@ -59,7 +59,7 @@
 .menu {
     width: 200px;
     height: 450px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     margin-top: 30px;
     margin-left: 30px;
@@ -88,7 +88,7 @@
 .map {
     width: 450px;
     height: 450px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     margin-left: 280px;
     box-shadow: 1px 10px 10px 1px rgb(6, 2, 66);
@@ -116,7 +116,7 @@
 .projects {
     width: 850px;
     height: 450px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     margin-left: 30px;
     box-shadow: 1px 10px 10px 1px rgb(6, 2, 66);
@@ -141,13 +141,13 @@
 .education {
     width: 650px;
     height: 450px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     box-shadow: 1px 10px 10px 1px rgb(6, 2, 66);
     margin-top: 50px;
     padding: 0 0 40px 50px;
 }
-.education h3{
+.education h3 {
     font-family: Mulish;
     font-size: 30px;
     color:rgb(6, 2, 66);
@@ -163,7 +163,7 @@
 .center {
     width: 900px;
     height: 800px;
-    background-color: rgba(240, 248, 255, 0.6);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 20px;
     margin-left: 50px;
     margin-top: 30px;
@@ -192,7 +192,7 @@
     align-items: center;
     width: 87.5%;
     height: 120px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
     margin-left: 30px;
     margin-top: 50px;
@@ -215,7 +215,7 @@
 .boden-box {
     width: 87.5%;
     height: 70px;
-    background-color: rgba(240, 248, 255, 0.5);
+    background-color: rgba(240, 248, 255, 0.7);
     border-radius: 10px;
     margin-left: 30px;
     margin-top: 20px;
